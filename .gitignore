@@ -1,0 +1,17 @@
+/data/coil/
+/data/flowers/
+/data/images/
+/data/iSUN/
+/data/MNIST/
+/data/val_256/
+/models/cifar10/
+/data/cifar-10-python.tar.gz
+/data/cifar-100-python.tar.gz
+/data/cifar-10-batches-py/
+/data/tiny-imagenet-200/
+/data/categories_places365.txt
+/data/places365_test.txt
+/data/places365_train_standard.txt
+/data/places365_val.txt
+/data/LSUN_resize/
+/checkpoints/
