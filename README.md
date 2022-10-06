@@ -82,11 +82,10 @@ Part of this code is inspired by [OpenGAN](https://github.com/aimerykong/OpenGAN
 Please cite our work if you use the codebase: 
 ```
 @article{azizmalayeri2022your,
-title={Your Out-of-Distribution Detection Method is Not Robust!},
-author={Azizmalayeri, Mohammad and Soltani Moakhar, Arshia and Zarei, Arman and Zohrabi, Reihaneh and Manzuri, Mohammad Taghi and Rohban, Mohammad Hossein},
-journal={Advances in Neural Information Processing Systems},
-year={2022},
-volume={35}
+  title={Your Out-of-Distribution Detection Method is Not Robust!},
+  author={Azizmalayeri, Mohammad and Moakhar, Arshia Soltani and Zarei, Arman and Zohrabi, Reihaneh and Manzuri, Mohammad Taghi and Rohban, Mohammad Hossein},
+  journal={arXiv preprint arXiv:2209.15246},
+  year={2022}
 }
 ```
 
