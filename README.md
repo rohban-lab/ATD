@@ -1,5 +1,5 @@
 # Your Out-of-Distribution Detection Method is Not Robust!
-This repository contains the code for the paper "[Your Out-of-Distribution Detection Method is Not Robust!]()". 
+This repository contains the code for the paper "[Your Out-of-Distribution Detection Method is Not Robust!](https://arxiv.org/abs/2209.15246)". 
 Out-of-distribution (OOD) detection has recently gained substantial attention due to the importance of identifying out-of-domain samples in reliability and safety. Although OOD detection methods have advanced by a great deal, they are still susceptible to adversarial examples. 
 To mitigate this issue, we propose the Adversarially Trained Discriminator (ATD), which utilizes a pre-trained robust model to extract robust features, and a generator model to create OOD samples. This method could significantly outperform previous methods.
 
